@@ -7,7 +7,7 @@ Finished: TBD
 Hours: TBD
 
 #### User Stories:
-1.) User must be able to create a todo featuring a single task
+1.) User must be able to create a memo featuring a single task
 
 2.) Memo task must be atleast 5 characters long
 
