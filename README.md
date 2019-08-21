@@ -1,9 +1,4 @@
 ## React Memo App
-Started: 8-19-19
-
-Finished: 8-19
-
-Hours: 6
 
 #### User Stories:
 1.) User must be able to create a memo featuring a single task
@@ -11,4 +6,9 @@ Hours: 6
 2.) Memo task must be atleast 5 characters long
 
 3.)Memo must have edit and delete functionality
+
+##Tech
+ES6(Javascript), ReactJS, CSS
+
+This is app is contains no class-based components. Relies on the React hooks to access state via the useState() 
 
