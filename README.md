@@ -1,6 +1,8 @@
 ## React Memo App
 Started: 8-19-19
+
 Finished: 8-19
+
 Hours: 6
 
 #### User Stories:
